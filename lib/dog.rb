@@ -12,7 +12,7 @@ class Dog
     @breed = dog_breed
   end
 
-  def breed(dog_breed)
+  def breed
     @breed
   end
 
